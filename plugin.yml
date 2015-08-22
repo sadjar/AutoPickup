@@ -1,0 +1,4 @@
+name: AutoPickup
+main: com.sadjar.autopickup.Main
+version: 1.0.0
+description: AutoPickup for any server.
